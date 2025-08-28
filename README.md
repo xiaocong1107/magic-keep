@@ -1,6 +1,6 @@
 # 魔法笔记MagicKeep
 
-![Screenshot]([https://github.com/user-attachments/assets/cc03dd25-072b-4766-b788-971aeda609f3](https://img.bornforai.cn/articlePicture/2025/magickeep/maigckeep1.jpg))
+![Screenshot]([https://img.bornforai.cn/articlePicture/2025/magickeep/maigckeep1.jpg](https://img.bornforai.cn/articlePicture/2025/magickeep/maigckeep1.jpg))
 
 魔法笔记MagicKeep是一款现代化的笔记应用，具有简洁界面和强大功能。该应用采用前沿的Web技术栈构建，提供Markdown编辑、清单管理、图片附件、标签分类、色彩主题、暗黑模式、拖拽排序、数据导入导出、用户认证等核心功能。
 
